@@ -12,7 +12,7 @@ Consists of :
 8: Friend requests and suggesting new friends
 9: The user's profile and the ability to modify his information completely and smoothly
 10: Possibility to delete, hide, or add posts to the save list.
-![TellUs](https://user-images.githubusercontent.com/85794958/212322388-ee6c2031-2be6-4d7c-ab35-65d25bda93e4.gif)
+![TellUs](https://user-images.githubusercontent.com/85794958/212322757-5b6b9147-0816-417d-b85b-bcab289ce9f9.gif)
 ![1](https://user-images.githubusercontent.com/85794958/156533504-5c20bdb2-1031-467c-a56b-3f9700d41f8a.png)
 ![2](https://user-images.githubusercontent.com/85794958/156533506-90bcd84f-1099-45f7-8589-eb12c57e35aa.png)
 ![3](https://user-images.githubusercontent.com/85794958/156533510-140ebfc3-300e-4ef7-9d02-4a5ec77e96e0.png)
