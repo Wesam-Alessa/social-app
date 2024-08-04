@@ -1,4 +1,20 @@
-# chat
+Social Media App
+
+This repository contains the source code for a social media application designed to facilitate user interaction and content sharing.
+
+Core Functionalities
+
+1. User Management: Account registration, login, and profile management.
+
+2. Content Creation and Sharing: Posting text, photos, videos, and voice messages.
+
+3. User Interaction: Commenting, liking, and sharing posts.
+
+4. Direct Messaging: Private conversations between users.
+
+5. Social Discovery: Friend requests, suggestions, and friend management.
+
+6. Post Management: Saving, hiding, and deleting posts.
 
 social media app
 Consists of :
