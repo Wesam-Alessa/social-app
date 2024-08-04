@@ -16,18 +16,7 @@ Core Functionalities
 
 6. Post Management: Saving, hiding, and deleting posts.
 
-social media app
-Consists of :
-1: Register a new account
-2: Log in to the account
-3: main post interface
-4: Comments in the form of photos, videos, texts and (voice comments)
-5: upload new post
-6: Conversations with friends
-7: friends story
-8: Friend requests and suggesting new friends
-9: The user's profile and the ability to modify his information completely and smoothly
-10: Possibility to delete, hide, or add posts to the save list.
+
 ![TellUs](https://user-images.githubusercontent.com/85794958/212322757-5b6b9147-0816-417d-b85b-bcab289ce9f9.gif)
 ![1](https://user-images.githubusercontent.com/85794958/156533504-5c20bdb2-1031-467c-a56b-3f9700d41f8a.png)
 ![2](https://user-images.githubusercontent.com/85794958/156533506-90bcd84f-1099-45f7-8589-eb12c57e35aa.png)
